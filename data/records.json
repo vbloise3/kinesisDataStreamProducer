@@ -1,0 +1,20 @@
+[
+    {
+      "id": "789",
+      "category": "Cloud Concepts",
+      "info": {
+        "subcategory": "ML Exam Practice Questions",
+        "questionType": "multiple choice 2",
+        "question": "You have been tasked with using Polly to translate speech to text in the company announcements that launch weekly. The problem you are encountering is how Polly is incorrectly translating the companies acronyms. What can be done for future tasks to help prevent this?",
+        "answers": [
+          "Use SSML tags in documents",
+          "Use Amazon Comprehend to pull parts of speech and use to help pronounce acronyms",
+          "Create dictionary lexicon",
+          "Use Amazon Transcribe to first map the acronyms to pronunciations then include them in the Amazon polly pipeline",
+          "Use speech marks for input text documents"
+        ],
+        "correctAnswer": ["Use SSML tags in documents",
+          "Create dictionary lexicon"]
+      }
+    }
+  ]
